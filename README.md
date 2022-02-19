@@ -47,7 +47,8 @@ $ python3 PoScan.py -tg 192.168.1.1
 
 ## Demo
 
-![image-20220219233749529](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220219233749529.png)
+![image](https://user-images.githubusercontent.com/82303088/154808309-31124a06-9647-4bbb-ba25-088f592422d4.png)
+
 
 ## 法律免责声明
 
