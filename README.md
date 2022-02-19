@@ -23,9 +23,9 @@ $ python3 PoScan.py -tg 192.168.1.1 -type all
 Liunx / window
 
 ```shell
-git clone https://github.com/Ch3xd/PoScan.git
-cd PoScan
-pip3 install requirements.txt
+$ git clone https://github.com/Ch3xd/PoScan.git
+$ cd PoScan
+$ pip3 install requirements.txt
 ```
 
 ## Usage
