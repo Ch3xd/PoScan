@@ -24,6 +24,8 @@ Liunx / window
 
 ```shell
 git clone https://github.com/Ch3xd/PoScan.git
+cd PoScan
+pip3 install requirements.txt
 ```
 
 ## Usage
