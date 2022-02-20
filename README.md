@@ -15,7 +15,7 @@ $ python3 PoScan.py -tg 192.168.1.1 -type common
 $ python3 PoScan.py -tg 192.168.1.1 -type database
 $ python3 PoScan.py -tg 192.168.1.1 -type all
 ```
-
+缺点: 目标有防火墙的情况下可能无法探测到信息
 
 
 ## Installation
