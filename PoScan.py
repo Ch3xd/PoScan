@@ -9,7 +9,6 @@ from socket import SOCK_STREAM
 from banner import banner
 from prettytable import PrettyTable
 from concurrent.futures import ThreadPoolExecutor, as_completed
-# from pprint import pprint
 
 
 # socket连接判断ip端口号是否存在
