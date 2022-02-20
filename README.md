@@ -20,7 +20,7 @@ $ python3 PoScan.py -tg 192.168.1.1 -type all
 
 ## Installation
 
-window
+Liunx/window
 
 ```shell
 $ git clone https://github.com/Ch3xd/PoScan.git
