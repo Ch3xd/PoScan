@@ -48,8 +48,7 @@ $ python3 PoScan.py -tg 192.168.1.1 -type all
 ```
 
 ## Demo
-
-![image](https://user-images.githubusercontent.com/82303088/154834681-3b99918b-bcab-4e30-bf8c-c8423cd4fb3c.png)
+![image](https://user-images.githubusercontent.com/82303088/154834709-7a166f26-d03d-428f-b4b2-077e6f7b4ecc.png)
 
 ## 法律免责声明
 
