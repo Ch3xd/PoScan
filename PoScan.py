@@ -67,7 +67,7 @@ def scan_port_main(arg):
     open_port = []
     if args.info:
         total_len = total_len + 1
-    pbar = tqdm(total=total_len,ascii=False,desc='PortScan',ncols=100)    #设置进度条总长度
+    pbar = tqdm(total=total_len,ascii=False,desc='PortScan',ncols=70)    #设置进度条总长度
     with ThreadPoolExecutor(max_workers=args.threads) as executor:  # 默认设置370个线程
         future_list = []
         while not q.empty():
